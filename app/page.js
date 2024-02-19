@@ -77,7 +77,7 @@ export default function Home() {
               <span className="font-bold">72 </span>/ 100
             </div>
           </div>
-          <div className="flex items-center justify-center bg-dark-gray-blue text-white rounded-full p-3 font-semibold ">
+          <div className="flex items-center justify-center bg-dark-gray-blue text-white rounded-full p-3 font-semibold cursor-pointer ">
             Continue
           </div>
         </div>
